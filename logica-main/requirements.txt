@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+opencv-python   # Requerido por 'import cv2'
+numpy           # Requerido por 'import numpy as np'
+camera-input-live # El componente personalizado
